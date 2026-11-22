@@ -100,3 +100,25 @@ La documentación del proyecto se encuentra en:
 ```text
 docs/
 ```
+
+## 🌿 Flujo de trabajo Git
+
+Antes de comenzar:
+
+```bash
+git pull
+```
+
+Guardar cambios:
+
+```bash
+git add .
+git commit -m "Descripción de cambios"
+git push
+```
+
+Crear una nueva funcionalidad:
+
+```bash
+git checkout -b feature/nueva-funcionalidad
+```
